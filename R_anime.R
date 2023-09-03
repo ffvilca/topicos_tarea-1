@@ -43,3 +43,5 @@ hist(filtro_4$rating, breaks = 5, freq = F)
 
 
 # Para comenzar, se realizó una limpieza de datos...c
+
+# LALALALAA
